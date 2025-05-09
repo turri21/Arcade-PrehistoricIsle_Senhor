@@ -1,4 +1,8 @@
+-=(Prehisle_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # SNK M68000 (Prehistoric Isle) FPGA Implementation
 
 FPGA compatible core of SNK M68000 (Prehistoric Isle in 1930 based) arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O) with assistance from [**atrac17**](https://github.com/atrac17).
